@@ -1,4 +1,4 @@
-# Project 1
+# Basic Shell
 **tasks**: 
 * Write a simple shell
 * Run the shell in Linux
